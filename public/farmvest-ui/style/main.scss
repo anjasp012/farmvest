@@ -1,0 +1,18 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1140px
+);
+@import "colors";
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+
+@import "global";
+@import "fonts";
+@import "icons";
+
+@import "pages/index";
+@import "pages/mitra";
+
+@import "components/card-farmvest";
