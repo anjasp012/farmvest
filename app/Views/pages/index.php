@@ -324,15 +324,25 @@
                 <div class="col-md-12">
                     <div class="swiper mySwiper">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni1.jpg') ?>" class="w-100" alt="">
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/1.png') ?>" class="w-100" alt="">
                             </div>
-                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni2.jpg') ?>" class="w-100" alt="">
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/2.png') ?>" class="w-100" alt="">
                             </div>
-                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni5.jpg') ?>" class="w-100" alt="">
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/3.png') ?>" class="w-100" alt="">
                             </div>
-                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni3.jpg') ?>" class="w-100" alt="">
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/4.png') ?>" class="w-100" alt="">
                             </div>
-                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni4.jpg') ?>" class="w-100" alt="">
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/5.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/6.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/7.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/8.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/9.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/10.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/11.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/12.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/13.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/14.png') ?>" class="w-100" alt=""></div>
+                            <div class="swiper-slide"><img src="<?= asset('farmvest-ui/images/testimoni/15.png') ?>" class="w-100" alt="">
                             </div>
                         </div>
                         <div class="mt-5">
@@ -385,7 +395,7 @@
                             <h2 class="accordion-header">
                                 <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between align-lg-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
                                     <span>
-                                        Apakah Farmvest termasuk obat-obatan?
+                                        Apa itu FarmVest?
                                     </span>
                                     <span class="accordion-icon">
                                         <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
@@ -393,16 +403,14 @@
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">Farmvest bukan obat-obat-an. Farmvest merupakan
-                                    minuman
-                                    kesehatan terbuat dari susu kambing.</div>
+                                <div class="accordion-body">FarmVest adalah merek susu kambing etawa premium yang berasal dari peternakan lokal Indonesia. Kami menyediakan susu kambing segar dengan kualitas terbaik yang telah teruji BPOM, bersertifikat Halal, dan diverifikasi oleh Lab UGM.</div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
                                     <span>
-                                        Apakah sudah BPOM dan Halal?
+                                        Apakah semua produk FarmVest telah disertifikasi?
                                     </span>
                                     <span class="accordion-icon">
                                         <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
@@ -410,16 +418,14 @@
                                 </button>
                             </h2>
                             <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">Hotto sudah memiliki sertifikasi BPOM
-                                    (071111001200063) dan Halal dari Majelis Ulama Indonesia sehingga kualitas
-                                    dan keamanannya sudah terjamin</div>
+                                <div class="accordion-body">Ya, semua produk kami telah mendapatkan persetujuan BPOM, sertifikasi Halal dari MUI, dan telah terverifikasi keamanannya oleh laboratorium independen UGM.</div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
                                     <span>
-                                        Cum corporis excepturi voluptate eos veritatis officia similique ut ad,
+                                        Dari mana FarmVest mendapatkan susu kambing?
                                     </span>
                                     <span class="accordion-icon">
                                         <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
@@ -427,12 +433,127 @@
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">Placeholder content for this accordion, which is
-                                    intended to demonstrate the <code>.accordion-flush</code> class. This is the
-                                    third item's accordion body. Nothing more exciting happening here in terms
-                                    of content, but just filling up the space to make it look, at least at first
-                                    glance, a bit more representative of how this would look in a real-world
-                                    application.</div>
+                                <div class="accordion-body">Kami bersumber langsung dari peternakan lokal terpilih di Indonesia yang mematuhi standar tertinggi dalam kesejahteraan hewan dan praktek pertanian yang berkelanjutan.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                    <span>
+                                        Bagaimana cara FarmVest menjamin kesegaran produknya?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Kami memproduksi susu kambing setiap hari dan menjaga rantai dingin yang ketat dari peternakan hingga ke tangan konsumen untuk memastikan kesegaran maksimal.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                                    <span>
+                                        Apakah susu FarmVest aman untuk ibu hamil dan menyusui?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Ya, susu FarmVest aman dan bermanfaat bagi ibu hamil dan menyusui, memberikan nutrisi penting yang mendukung kesehatan ibu dan bayi.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSx" aria-expanded="false" aria-controls="flush-collapseSx">
+                                    <span>
+                                        Apakah FarmVest memiliki pilihan rasa?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSx" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Tentu, kami menawarkan berbagai rasa seperti original, cokelat, dan stroberi untuk memenuhi selera berbeda dari pelanggan kami.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                                    <span>
+                                        Bagaimana saya bisa menjadi mitra atau reseller FarmVest?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Untuk menjadi mitra atau reseller, silakan hubungi kami melalui formulir kontak di website atau melai WA kami dan tim kami akan memberikan informasi lebih lanjut.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                                    <span>
+                                        Apakah ada program afiliasi yang bisa saya ikuti?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Ya, kami memiliki program afiliasi yang menawarkan komisi kompetitif. Anda dapat mendaftar melalui website kami dan mendapatkan akses ke bahan pemasaran untuk memulai.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+                                    <span>
+                                        Bagaimana saya bisa mendapatkan FarmVest untuk konsumsi pribadi saya?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Anda bisa membeli susu FarmVest melalui official store kami atau mitra resmi terdekat. Kunjungi halaman 'Cara Pembelian' di website kami untuk informasi lebih lanjut.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
+                                    <span>
+                                        Apa kebijakan pengembalian produk FarmVest?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseNine" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Jika ada masalah dengan produk yang Anda terima, silakan hubungi layanan pelanggan kami dalam waktu 24 jam setelah penerimaan untuk mendiskusikan pengembalian atau pertukaran.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="btn btn-primary btn-lg rounded-0 fw-bold w-100 text-start rounded-1 collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
+                                    <span>
+                                        Di mana saya bisa menemukan informasi nutrisi produk FarmVest?
+                                    </span>
+                                    <span class="accordion-icon">
+                                        <i aria-hidden="true" class="fa-fw fas fa-plus"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="flush-collapseTen" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Informasi nutrisi untuk semua produk kami dapat ditemukan di label produk dan di website kami. Anda juga dapat menghubungi layanan pelanggan kami untuk informasi lebih detail.</div>
                             </div>
                         </div>
                     </div>
